@@ -1,4 +1,6 @@
 # To Build and Run:
+## install docker/docker engine
+## cd <to the path of this file>
 ## docker build -t max_test . 
 ## docker run -it max_test
 
